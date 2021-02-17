@@ -8,7 +8,7 @@
 - 🙋‍♂️ I'm 16y'o and i'm in 11th grade!
 - 📚 I’m always trying to learn something new 🤣
 - 🇵🇹 I'm Portuguese
-- 🚩 2020 Goals: Be more active on GitHub
+- 🚩 2021 Goals: Turn my thoughts into code
 - ⚡ Fun fact: I love solving puzzles and ARG's 🧐
 
 
