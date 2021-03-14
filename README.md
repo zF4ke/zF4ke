@@ -63,7 +63,7 @@
 <!--END_SECTION:activity-->
 <br>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zF4ke&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zF4ke&show_icons=true&count_private=true&hide_border=true" />
 
 [website]: https://discordapp.com/users/676156690395037713/
 [twitter]: https://twitter.com/zF4ked
