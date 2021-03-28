@@ -1,7 +1,7 @@
 ### Hey there, welcome to my github profile. I'm Pedro Silva - aka [zF4ke][website] 😃
 
 [![Website](https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/)](https://discordapp.com/users/676156690395037713/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/zF4ked?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%zF4ked&screen_name=zF4ked)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/zF4ked?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%zF4ked&screen_name=zF4ked) -->
 
 ## About me
 
