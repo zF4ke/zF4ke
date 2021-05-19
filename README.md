@@ -54,8 +54,8 @@
 
 <br>
 
-<img align="left" alt="zF4ke's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zf4ke&show_icons=true&count_private=true&hide_border=true&theme=dark" />
-
+![zF4ke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zf4ke&show_icons=true&count_private=true&hide_border=true&theme=dark)
+ 
 [website]: https://discordapp.com/users/676156690395037713/
 [twitter]: https://twitter.com/zF4ked
 [youtube]: https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA
