@@ -12,7 +12,7 @@
 - 🧩 I love solving puzzles and ARG's 🧐
 
 
-### Connect with me:
+## Connect with me
 
 <img align="left" alt="https://discordapp.com/users/676156690395037713/" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">
 <img align="left" alt="zF4ke | YouTube" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png">
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
@@ -49,13 +49,12 @@
 
 <br>
 <br>
-
----
-
 <br>
 
 ![zF4ke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zf4ke&show_icons=true&count_private=true&hide_border=true&theme=dark)
- 
+
+<br>
+
 [website]: https://discordapp.com/users/676156690395037713/
 [twitter]: https://twitter.com/zF4ked
 [youtube]: https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA
