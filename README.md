@@ -14,10 +14,10 @@
 
 ## Connect with me
 
-<img align="left" alt="https://discordapp.com/users/676156690395037713/" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">
-<img align="left" alt="zF4ke | YouTube" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png">
-<img align="left" alt="zF4ked | Twitter" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/twitter_logo_blue.svg">
-<img align="left" alt="zF4ke | LinkedIn" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png">
+<a href="https://discordapp.com/users/676156690395037713/"><img align="left" alt="zF4ke | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
+<a href="https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA"><img align="left" alt="zF4ke | YouTube" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png"></a>
+<a href="https://twitter.com/zF4ked"><img align="left" alt="zF4ked | Twitter" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/twitter_logo_blue.svg"></a>
+<a href="https://linkedin.com/in/zF4ke"><img align="left" alt="zF4ke | LinkedIn" width="22px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
 
 <br />
 
