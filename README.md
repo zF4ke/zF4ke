@@ -8,7 +8,7 @@
 - 📚 I’m always trying to learn something new
 - 🇵🇹 I'm Portuguese
 - 🚩 2021 Goals: Turn my thoughts into code
-- 🤔 Personality Type: INTJ
+- 🤔 Personality Type: ISTJ
 - 🧩 I love solving puzzles and ARG's 🧐
 
 
