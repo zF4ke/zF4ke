@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🙋‍♂️ I'm 16y'o and i'm in 11th grade!
+- 🙋‍♂️ I'm 16y'o!
 - 📚 I’m always trying to learn something new
 - 🇵🇹 I'm Portuguese
 - 🚩 2021 Goals: Turn my thoughts into code
