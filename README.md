@@ -7,7 +7,7 @@
 - 🙋‍♂️ I'm 17y'o!
 - 📚 I’m always trying to learn something new
 - 🇵🇹 I'm Portuguese
-- 🚩 2021 Goals: Turn my thoughts into code
+- 🚩 2022 Goals: Turn my thoughts into code
 - 🤔 Personality Type: ISTJ
 - 🧩 I love solving puzzles and ARG's 🧐
 
