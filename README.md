@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🙋‍♂️ I'm 18y'o!
+- 🙋‍♂️ I'm 19y'o!
 - 📚 I’m always trying to learn something new
 - 🇵🇹 I'm Portuguese
 - 🚩 Goals: Turn my thoughts into code
