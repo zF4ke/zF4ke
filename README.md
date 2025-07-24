@@ -1,60 +1,98 @@
-<h3 align="center"> Hey there! I'm Pedro Silva - aka <a href="https://discordapp.com/users/676156690395037713">zF4ke</a> 😃<h3>
+<h3 align="center"> Hey there, 👋! I'm Pedro Silva<h3>
+
 <p align="center">
- <a href="https://discordapp.com/users/676156690395037713/" target="_blank"><img alt="Discord" src="https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/"></a></p>
-
-## About me
-
-- 🙋‍♂️ I'm 20y'o
-- 📚 I’m always trying to learn something new
-- 🇵🇹 I'm Portuguese
-- 🚩 Goals: Turn my thoughts into code
-- 🧩 I love solving puzzles and ARG's 🧐
+  <a href="https://portfolio-zf4ke.vercel.app">Portfolio</a> •
+  <a href="https://www.youtube.com/@zFake">Youtube</a> •
+  <a href="https://linkedin.com/in/zf4ke">LinkedIn</a> •
+  <a href="https://discordapp.com/users/676156690395037713/">Discord</a>
+</p>
 
 
-## Connect with me
+## About me 👀
 
-<a href="https://discordapp.com/users/676156690395037713/"><img align="left" alt="zF4ke | Discord" width="32px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
-<a href="https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA"><img align="left" alt="zF4ke | YouTube" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png"></a>
-<a href="https://twitter.com/zF4ked"><img align="left" alt="zF4ked | Twitter" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/twitter_logo_blue.svg"></a>
-<a href="https://linkedin.com/in/zF4ke"><img align="left" alt="zF4ke | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
+I'm a 20 y/o developer from Portugal 🇵🇹 with a strong passion for AI, web development, and creative problem-solving 🧠. I recently completed my Bachelor's in Computer Science at FCUL and I'm about to begin my Master's in Computer Science and Engineering at IST 🎓. In my free time, I enjoy solving [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I share what I learn about coding, science and math.
 
-<br />
+## Favorite Projects 🚀
 
-## Languages and Tools
+| Project | Description |
+|--------|-------------|
+| [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript Discord bot, real-time analytics, and observability. |
+| [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Source code for *MoVe*, our microsatellite for the 9th edition of CanSat Portugal — focused on telemetry, sensors, and systems. |
+| [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 AI-powered Flappy Bird using a genetic algorithm — experiment in neuroevolution and reinforcement learning. |
+| [letmeask-nlwtogether](https://github.com/zF4ke/letmeask-nlwtogether) | ⚛️🚀 React + Firebase Q&A platform built during Rocketseat's NLW Together. Features include room creation, real-time questions, likes, admin tools, and full auth flow. |
+| [jogo2d-javascript](https://github.com/zF4ke/jogo2d-javascript) | 🎮 Source code from my YouTube series *"Como programar um jogo 2D em JavaScript"* — teaching game dev from scratch. |
+| **Traveller** *(private)* | 🧙‍♂️ A custom game engine for Discord designed to power a full-featured cryptography-based RPG with innovative gameplay system combining puzzles, progression, and education. |
+| **Traveller Web** *(private)* | 🛠️ A Next.js-based development dashboard that helps manage content, logic, and tooling for the Traveller engine. Built for speed and maintainability. |
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.python.org/" target="_blank"> <img width="<img width="32px" " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img width="<img width="32px" " src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://materializecss.com/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://babeljs.io/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://canvasjs.com" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.electronjs.org" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img width="<img width="32px" " src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
- </p>
+## Languages and Tools 🛠️
+
+Each group below represents a set of technologies I use for specific areas of development.
+
+---
+
+### 🌐 Web Development
+Technologies I use to build full-stack web apps, mostly with TypeScript and modern frameworks.
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+</div>
+
+### 🤖 Artificial Intelligence & Data
+Used for machine learning, computer vision, and general experimentation.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+</div>
+
+### ☕ Backend & DevOps
+Java-based tools and infrastructure for scalable, production-ready systems.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zF4ke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zF4ke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" alt="languages graph"  />
+</div>
 
 <br>
-
-![zF4ke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zf4ke&show_icons=true&count_private=true&hide_border=true&theme=dark)
-
-<br>
-
-[website]: https://discordapp.com/users/676156690395037713/
-[twitter]: https://twitter.com/zF4ked
-[youtube]: https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA
-[linkedin]: https://linkedin.com/in/zF4ke
