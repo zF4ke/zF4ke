@@ -13,7 +13,7 @@
 
 ## About me 👀
 
-I'm a 20 y/o developer from Portugal 🇵🇹 with a strong passion for AI, web development, and creative problem-solving 🧠. I recently completed my Bachelor's in Computer Science at FCUL and I'm about to begin my Master's in Computer Science and Engineering at IST 🎓. In my free time, I enjoy solving [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I share what I learn about coding, science and math.
+I'm a 21 y/o developer from Portugal 🇵🇹 with a strong passion for AI, web development, and creative problem-solving 🧠. I recently completed my Bachelor's in Computer Science at FCUL and I'm about to begin my Master's in Computer Science and Engineering at IST 🎓. In my free time, I enjoy solving [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I share what I learn about coding, science and math.
 
 
 ## Favorite Projects 🚀
