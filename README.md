@@ -21,10 +21,10 @@ I'm a 21 y/o developer from Portugal 🇵🇹 with a strong passion for AI, web 
 | Project | Description |
 |--------|-------------|
 | [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript Discord bot, real-time analytics, and observability. |
-| [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Source code for *MoVe*, our microsatellite for the 9th edition of CanSat Portugal — focused on telemetry, sensors, and systems. |
-| [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 AI-powered Flappy Bird using a genetic algorithm — experiment in neuroevolution and reinforcement learning. |
+| [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Source code for *MoVe*, our microsatellite for the 9th edition of CanSat Portugal: focused on telemetry, sensors, and systems. |
+| [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 AI-powered Flappy Bird using a genetic algorithm: experiment in neuroevolution and reinforcement learning. |
 | [letmeask-nlwtogether](https://github.com/zF4ke/letmeask-nlwtogether) | ⚛️🚀 React + Firebase Q&A platform built during Rocketseat's NLW Together. Features include room creation, real-time questions, likes, admin tools, and full auth flow. |
-| [jogo2d-javascript](https://github.com/zF4ke/jogo2d-javascript) | 🎮 Source code from my YouTube series *"Como programar um jogo 2D em JavaScript"* — teaching game dev from scratch. |
+| [jogo2d-javascript](https://github.com/zF4ke/jogo2d-javascript) | 🎮 Source code from my YouTube series *"Como programar um jogo 2D em JavaScript"*: teaching game dev from scratch. |
 | **Traveller** *(private)* | 🧙‍♂️ A custom game engine for Discord designed to power a full-featured cryptography-based RPG with innovative gameplay system combining puzzles, progression, and education. |
 | **Traveller Web** *(private)* | 🛠️ A Next.js-based development dashboard that helps manage content, logic, and tooling for the Traveller engine. Built for speed and maintainability. |
 
