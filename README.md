@@ -13,20 +13,20 @@
 
 ## About me 👀
 
-I'm a 21 y/o developer from Portugal 🇵🇹 with a strong passion for AI, web development, and creative problem-solving 🧠. I recently completed my Bachelor's in Computer Science at FCUL and I'm about to begin my Master's in Computer Science and Engineering at IST 🎓. In my free time, I enjoy solving [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I share what I learn about coding, science and math.
+I'm a 21 y/o developer from Portugal 🇵🇹 who likes building things that actually work. I'm doing my Master's in Computer Science and Engineering at IST, after finishing my Bachelor's at FCUL 🎓. Lately I'm mostly into AI agents and full-stack web, and I write software for autonomous drones with [AeroTec ATLAS](https://aerotec.pt/atlas). In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
 
 
 ## Favorite Projects 🚀
 
 | Project | Description |
 |--------|-------------|
-| [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript Discord bot, real-time analytics, and observability. |
-| [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Source code for *MoVe*, our microsatellite for the 9th edition of CanSat Portugal: focused on telemetry, sensors, and systems. |
-| [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 AI-powered Flappy Bird using a genetic algorithm: experiment in neuroevolution and reinforcement learning. |
-| [letmeask-nlwtogether](https://github.com/zF4ke/letmeask-nlwtogether) | ⚛️🚀 React + Firebase Q&A platform built during Rocketseat's NLW Together. Features include room creation, real-time questions, likes, admin tools, and full auth flow. |
-| [jogo2d-javascript](https://github.com/zF4ke/jogo2d-javascript) | 🎮 Source code from my YouTube series *"Como programar um jogo 2D em JavaScript"*: teaching game dev from scratch. |
-| **Traveller** *(private)* | 🧙‍♂️ A custom game engine for Discord designed to power a full-featured cryptography-based RPG with innovative gameplay system combining puzzles, progression, and education. |
-| **Traveller Web** *(private)* | 🛠️ A Next.js-based development dashboard that helps manage content, logic, and tooling for the Traveller engine. Built for speed and maintainability. |
+| [Sophia](https://github.com/zF4ke/sophia) | 🤖 A conversational AI agent for Discord that searches your server history and acts on it in plain language, with admin approval on every change. 33 tools, an agentic loop, and a live site at [zf4ke.github.io/sophia](https://zf4ke.github.io/sophia). |
+| [Timebox](https://github.com/zF4ke/timebox) | 🗓️ A desktop app where five AI agents draft, critique and vote on your weekly schedule, then export it straight to your calendar. Live at [zf4ke.github.io/timebox](https://zf4ke.github.io/timebox). |
+| [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript/Next.js dashboard, real-time analytics and observability. |
+| **Traveller** *(private)* | 🧙‍♂️ A multiplayer RPG played inside Discord where decrypting ciphers is the core mechanic. Platform-agnostic game engine, data-driven content, and a Next.js authoring dashboard. |
+| [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Flight software for *MoVe*, our can-sized satellite for the 9th edition of CanSat Portugal: telemetry, sensors and systems. |
+| [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 Flappy Bird that teaches itself to fly, using neural networks evolved with a genetic algorithm. |
+| [jogo2d-javascript](https://github.com/zF4ke/jogo2d-javascript) | 🎮 Source code from my YouTube series on building a 2D game in vanilla JavaScript, from scratch. |
 
 ## Languages and Tools 🛠️
 
