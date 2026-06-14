@@ -22,7 +22,7 @@ I'm a 21 y/o developer from Portugal 🇵🇹 who likes building things that act
 |--------|-------------|
 | [Sophia](https://github.com/zF4ke/sophia) | 🤖 A conversational AI agent for Discord that searches your server history and acts on it in plain language, with admin approval on every change. 33 tools, an agentic loop, and a live site at [zf4ke.github.io/sophia](https://zf4ke.github.io/sophia). |
 | [Timebox](https://github.com/zF4ke/timebox) | 🗓️ A desktop app where five AI agents draft, critique and vote on your weekly schedule, then export it straight to your calendar. Live at [zf4ke.github.io/timebox](https://zf4ke.github.io/timebox). |
-| [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript/Next.js dashboard, real-time analytics and observability. |
+| [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript/Next.js dashboard, real-time analytics and observability. Live at [modern-bazaar.vercel.app](https://modern-bazaar.vercel.app). |
 | **Traveller** *(private)* | 🧙‍♂️ A multiplayer RPG played inside Discord where decrypting ciphers is the core mechanic. Platform-agnostic game engine, data-driven content, and a Next.js authoring dashboard. |
 | [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Flight software for *MoVe*, our can-sized satellite for the 9th edition of CanSat Portugal: telemetry, sensors and systems. |
 | [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 Flappy Bird that teaches itself to fly, using neural networks evolved with a genetic algorithm. |
