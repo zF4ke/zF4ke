@@ -1,7 +1,7 @@
 <h3 align="center"> Hey there, 👋! I'm Pedro Silva<h3>
 
 <p align="center">
-  <a href="https://portfolio-zf4ke.vercel.app">Portfolio</a> •
+  <a href="https://zf4ke.me">Portfolio</a> •
   <a href="https://www.youtube.com/@zFake">Youtube</a> •
   <a href="https://linkedin.com/in/zf4ke">LinkedIn</a> •
   <a href="https://discordapp.com/users/676156690395037713/">Discord</a>
