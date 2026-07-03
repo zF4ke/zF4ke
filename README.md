@@ -23,6 +23,8 @@ I'm a 21 y/o developer from Portugal 🇵🇹 who likes building things that act
 | [Sophia](https://github.com/zF4ke/sophia) | 🤖 A conversational AI agent for Discord that searches your server history and acts on it in plain language, with admin approval on every change. 33 tools, an agentic loop, and a live site at [zf4ke.github.io/sophia](https://zf4ke.github.io/sophia). |
 | [Timebox](https://github.com/zF4ke/timebox) | 🗓️ A desktop app where five AI agents draft, critique and vote on your weekly schedule, then export it straight to your calendar. Live at [zf4ke.github.io/timebox](https://zf4ke.github.io/timebox). |
 | [ModernBazaar](https://github.com/zF4ke/ModernBazaar) | 🛒 Enterprise-grade market analyzer for Hypixel SkyBlock. Java/Spring Boot backend, TypeScript/Next.js dashboard, real-time analytics and observability. Live at [modern-bazaar.vercel.app](https://modern-bazaar.vercel.app). |
+| [Poeta](https://github.com/zF4ke/poeta) | ✍️ A calm writing desk for rap and poetry that actually hears how your words rhyme, in Portuguese and English. Phonetic rhyme engine, local-first, no account. Live at [poeta.zf4ke.me](https://poeta.zf4ke.me). |
+| [Book2English](https://github.com/zF4ke/Book2English) | 📖 Drop in any PDF and read it in your language with the original layout untouched. Everything runs in your browser. Live at [book2english.zf4ke.me](https://book2english.zf4ke.me). |
 | **Traveller** *(private)* | 🧙‍♂️ A multiplayer RPG played inside Discord where decrypting ciphers is the core mechanic. Platform-agnostic game engine, data-driven content, and a Next.js authoring dashboard. |
 | [cansat-palmasat](https://github.com/zF4ke/cansat-palmasat) | 🛰️ Flight software for *MoVe*, our can-sized satellite for the 9th edition of CanSat Portugal: telemetry, sensors and systems. |
 | [neuroevolution-flappy-bird](https://github.com/zF4ke/neuroevolution-flappy-bird) | 🧠 Flappy Bird that teaches itself to fly, using neural networks evolved with a genetic algorithm. |
@@ -92,10 +94,3 @@ Java-based tools and infrastructure for scalable, production-ready systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zF4ke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" alt="languages graph"  />
-</div>
-
-<br>
