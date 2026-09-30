@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there, 👋! I'm Pedro Silva<h3>
+<h3 align="center"> Hey there, 👋! I'm Pedro Silva</h3>
 
 <p align="center">
   <a href="https://zf4ke.me">Portfolio</a> •
@@ -13,7 +13,7 @@
 
 ## About me 👀
 
-I'm a 21-year-old developer from Portugal 🇵🇹 who builds things that make computers smarter. I'm finishing my MSc in Computer Science and Engineering at IST (BSc from FCUL 🎓), focusing on AI agents and full-stack web, and I write software for autonomous drones at [AeroTec ATLAS](https://aerotec.pt/atlas) In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
+I'm a 21-year-old developer from Portugal 🇵🇹 who builds things that make computers smarter. I'm finishing my MSc in Computer Science and Engineering at IST (BSc from FCUL 🎓), focusing on AI agents and full-stack web, and I write software for autonomous drones at [AeroTec ATLAS](https://aerotec.pt/atlas). In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
 
 
 ## Favorite Projects 🚀
@@ -60,10 +60,15 @@ Technologies I use to build full-stack web apps, mostly with TypeScript and mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+
 </div>
 
 ### 🤖 Artificial Intelligence & Data
-Used for machine learning, computer vision, and general experimentation.
+Used for building LLM agents, machine learning, computer vision, and general experimentation.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -81,7 +86,24 @@ Used for machine learning, computer vision, and general experimentation.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-### ☕ Backend & DevOps
+### 🚁 Drones, Vision & Embedded
+Onboard software for autonomous drones: real-time video, SLAM and person detection (YOLO, ORB-SLAM3, DeepStream/TensorRT), controlled over MAVLink.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="NVIDIA Jetson, DeepStream & TensorRT" title="NVIDIA Jetson · DeepStream · TensorRT" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ultralytics/111F68" height="40" alt="YOLO" title="YOLO" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="ORB-SLAM3" title="ORB-SLAM3" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/mavlink/mavlink-devguide/master/assets/site/logo_mavlink_small.png" height="40" alt="MAVLink" title="MAVLink" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zerotier/FFB441" height="40" alt="ZeroTier" title="ZeroTier" />
+</div>
+
+### ☕ Backend, Desktop & DevOps
 Java-based tools and infrastructure for scalable, production-ready systems.
 
 <div align="left">
