@@ -13,7 +13,7 @@
 
 ## About me 👀
 
-I'm a 21 y/o developer from Portugal 🇵🇹 who likes building things that actually work. I'm doing my Master's in Computer Science and Engineering at IST, after finishing my Bachelor's at FCUL 🎓. Lately I'm mostly into AI agents and full-stack web, and I write software for autonomous drones with [AeroTec ATLAS](https://aerotec.pt/atlas). In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
+I'm a 21-year-old developer from Portugal 🇵🇹 who builds things that make computers smarter. I'm finishing my MSc in Computer Science and Engineering at IST (BSc from FCUL 🎓), focusing on AI agents and full-stack web, and I write software for autonomous drones at [AeroTec ATLAS](https://aerotec.pt/atlas) In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
 
 
 ## Favorite Projects 🚀
