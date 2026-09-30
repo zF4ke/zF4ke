@@ -1,10 +1,10 @@
 <h3 align="center"> Hey there, 👋! I'm Pedro Silva</h3>
 
 <p align="center">
-  <a href="https://zf4ke.me">Portfolio</a> •
-  <a href="https://www.youtube.com/@zFake">Youtube</a> •
-  <a href="https://linkedin.com/in/zf4ke">LinkedIn</a> •
-  <a href="https://discordapp.com/users/676156690395037713/">Discord</a>
+  <a href="https://zf4ke.me"><img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/portfolio.png" width="16" height="16" alt="" align="absmiddle"> Portfolio</a> •
+  <a href="https://www.youtube.com/@zFake"><img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/youtube.png" width="16" height="16" alt="" align="absmiddle"> Youtube</a> •
+  <a href="https://linkedin.com/in/zf4ke"><img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/linkedin.png" width="16" height="16" alt="" align="absmiddle"> LinkedIn</a> •
+  <a href="https://discordapp.com/users/676156690395037713/"><img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/discord.png" width="16" height="16" alt="" align="absmiddle"> Discord</a>
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ## About me 👀
 
-I'm a 21-year-old developer from Portugal 🇵🇹 who builds things that make computers smarter. I'm finishing my MSc in Computer Science and Engineering at IST (BSc from FCUL 🎓), focusing on AI agents and full-stack web, and I write software for autonomous drones at [AeroTec ATLAS](https://aerotec.pt/atlas). In my free time I solve [puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
+I'm a 21-year-old developer from Portugal 🇵🇹 who builds things that make computers smarter. I'm finishing my MSc in Computer Science and Engineering at IST (BSc from FCUL 🎓), focusing on AI agents and full-stack web, and I write software for autonomous drones at [<img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/aerotec.png" width="16" height="16" alt="" align="absmiddle"> AeroTec ATLAS](https://aerotec.pt/atlas). In my free time I solve [<img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/puzzles.png" width="16" height="16" alt="" align="absmiddle"> puzzles](https://enigmatics.org/profile/zf4ke) and ARGs 🧩, and I run a [<img src="https://raw.githubusercontent.com/zF4ke/zF4ke/master/assets/link-icons/youtube.png" width="16" height="16" alt="" align="absmiddle"> YouTube channel](https://www.youtube.com/@zFake) where I teach what I learn about coding, science and math.
 
 
 ## Favorite Projects 🚀
